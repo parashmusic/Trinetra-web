@@ -11,13 +11,13 @@ Trientra is not just another travel map—it's an intelligent, proactive guardia
 ### 🤖 Core Intelligence & Journey
 | Adaptive Journey | AI Intelligence | Live Mapping |
 | :---: | :---: | :---: |
-| ![Journey](assets/images/Adaptive%20journey/1.png) | ![Intelligence](assets/images/intellegence/1.png) | ![Map](assets/images/live%20map/1.png) |
+| ![Journey](public/screens/Adaptive%20journey/1.png) | ![Intelligence](public/screens/intellegence/1.png) | ![Map](public/screens/live%20map/1.png) |
 | *Personalized Routes* | *Discovery Engine* | *Real-time Tracking* |
 
 ### 🛡️ Safety & Identity
 | AI Watchdog (SOS) | Digital Identity Pass | Live Notifications |
 | :---: | :---: | :---: |
-| ![SOS](assets/images/sos/2.png) | ![ID](assets/images/digital%20pass/1.png) | ![Notif](assets/images/live%20notification/1.png) |
+| ![SOS](public/screens/sos/2.png) | ![ID](public/screens/digital%20pass/1.png) | ![Notif](public/screens/live%20notification/1.png) |
 | *Lock-screen Protection* | *Unified QR Access* | *Persistent Awareness* |
 
 ---
